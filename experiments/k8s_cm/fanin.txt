@@ -1,0 +1,5 @@
+frontend1 http://cm1
+frontend2 http://cm2
+frontend3 http://cm3
+frontend4 http://cm4
+backend http://cm5

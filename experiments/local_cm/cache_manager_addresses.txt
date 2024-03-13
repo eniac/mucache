@@ -1,0 +1,2 @@
+service1 http://localhost:8080
+service2 http://localhost:8081

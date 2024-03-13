@@ -1,0 +1,15 @@
+apiVersion: dapr.io/v1alpha1
+kind: Configuration
+metadata:
+  name: default
+  namespace: default
+spec:
+  tracing:
+    samplingRate: "0"
+  mtls:
+    enabled: false
+  metrics:
+    enabled: false
+  metric:
+    enabled: false
+

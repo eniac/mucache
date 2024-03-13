@@ -1,0 +1,1003 @@
+Users: 100
+Movies: 1000
+Popularities|Titles:
+310.583|Avengers: Endgame 
+268.663|Kamen Rider Heisei Generations FOREVER 
+223.9|Captain Marvel 
+194.749|Pokémon Detective Pikachu 
+192.428|Hellboy 
+183.235|After 
+169.271|Avengers: Infinity War 
+166.12|Doraemon the Movie: Nobita's Treasure Island 
+124.377|Cold Pursuit 
+115.424|Shazam! 
+109.772|What Men Want 
+109.398|Glass 
+104.393|The Avengers 
+98.035|Black Panther 
+95.321|How to Train Your Dragon: The Hidden World 
+89.837|Tolkien 
+87.793|Fighting with My Family 
+86.645|Guardians of the Galaxy Vol. 2 
+85.913|Avengers: Age of Ultron 
+85.681|The Prodigy 
+82.722|Cars 
+81.866|Thor: Ragnarok 
+76.897|The Wandering Earth 
+75.715|Extremely Wicked, Shockingly Evil and Vile 
+71.558|Pet Sematary 
+70.035|Logan 
+69.193|Guardians of the Galaxy 
+64.903|Fall in Love at First Kiss 
+64.012|Spider-Man: Into the Spider-Verse 
+63.577|Bumblebee 
+63|Thor 
+62.741|Aquaman 
+61.967|Ant-Man and the Wasp 
+59.979|The Lego Movie 2: The Second Part 
+59.691|Edge of Tomorrow 
+59.204|The Hustle 
+59.189|Dumbo 
+58.912|Redcon-1 
+58.757|Instant Family 
+56.703|Spider-Man: Homecoming 
+56.703|The Hobbit: The Battle of the Five Armies 
+56.703|Little 
+56.703|The Curse of La Llorona 
+56.513|Escape Room 
+56.447|Miss Bala 
+56.307|High Life 
+55.719|The Highwaymen 
+55.678|The Fate of the Furious 
+55.612|Iron Man 
+55.359|Captain America: The First Avenger 
+53.571|Captain America: Civil War 
+52.854|Us 
+52.814|Detective Conan: The Fist of Blue Sapphire 
+52.473|Fate/stay night: Heaven’s Feel II. lost butterfly 
+52.034|Robin Hood 
+51.325|Fantastic Beasts: The Crimes of Grindelwald 
+50.784|Thor: The Dark World 
+50.687|Alita: Battle Angel 
+50.089|Happy Death Day 2U 
+49.222|John Wick 
+48.539|Mile 22 
+48.261|Iron Man 2 
+48.001|Maggie 
+47.903|Venom 
+47.557|Harry Potter and the Philosopher's Stone 
+47.221|The Kid Who Would Be King 
+46.949|Pirates of the Caribbean: The Curse of the Black Pearl 
+46.915|Bohemian Rhapsody 
+46.686|The Mule 
+46.581|Ralph Breaks the Internet 
+46.503|The Lord of the Rings: The Fellowship of the Ring 
+46.336|Death Wish 
+46.203|John Wick: Chapter 3 – Parabellum 
+44.521|The Sisters Brothers 
+44.237|We Are Your Friends 
+43.719|Vaarikkuzhiyile Kolapathakam 
+43.447|The First Purge 
+43.059|Left Behind 
+42.745|Deadpool 2 
+42.698|BlacKkKlansman 
+42.56|Jigsaw 
+42.523|The Kissing Booth 
+42.442|Shaun the Sheep Movie 
+41.972|Under Siege 2: Dark Territory 
+41.737|Truth or Dare 
+41.681|Doctor Strange 
+41.567|The Lord of the Rings: The Return of the King 
+41.471|It's a Wonderful Life 
+41.284|Interstellar 
+40.984|Bad Times at the El Royale 
+40.684|A Madea Family Funeral 
+40.677|Long Shot 
+40.559|Suspiria 
+40.468|The Dark Knight 
+40.129|Trainspotting 
+40.039|Star Wars 
+39.407|Mortal Engines 
+39.357|Loving Vincent 
+38.975|Jurassic World: Fallen Kingdom 
+38.807|Velvet Buzzsaw 
+38.723|A Wrinkle in Time 
+38.417|The Lion King 1½ 
+38.102|Spider-Man: Far from Home 
+38.046|Harry Potter and the Chamber of Secrets 
+37.973|Solo: A Star Wars Story 
+37.882|The Last Summer 
+37.783|Iron Man 3 
+37.55|Eighth Grade 
+37.442|Mandy 
+37.417|Die Hard 
+37.008|Home Alone 4 
+36.985|Adrift 
+36.975|The Predator 
+36.941|The Favourite 
+36.882|Overlord 
+36.774|Camp X-Ray 
+36.748|Mary Poppins Returns 
+36.671|Master Z: Ip Man Legacy 
+36.371|Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow 
+36.222|Scooby-Doo 2: Monsters Unleashed 
+36.064|The Transporter Refueled 
+35.951|Personal Shopper 
+35.74|Endless Love 
+35.709|Ant-Man 
+35.687|Polar 
+35.659|The Silence 
+35.345|The Professor and the Madman 
+35.185|12 Strong 
+35.083|Anon 
+35.057|Brightburn 
+35.01|Outlaw King 
+34.902|Texas Chainsaw 3D 
+34.81|The Upside 
+34.797|Breakthrough 
+34.708|The Emoji Movie 
+34.69|Green Book 
+34.595|A Bad Moms Christmas 
+34.585|Deadpool 
+34.548|Herbie Fully Loaded 
+34.519|Batman v Superman: Dawn of Justice 
+34.503|Bel Ami 
+34.466|A Hologram for the King 
+34.429|The Hunger Games: Mockingjay - Part 1 
+34.399|Planes 
+34.235|Wrong Turn 2: Dead End 
+34.187|Zodiac 
+34.18|The Curious Case of Benjamin Button 
+34.08|Wonder Woman 
+34.019|A Goofy Movie 
+33.932|The Incredible Hulk 
+33.909|San Andreas 
+33.88|Creed II 
+33.764|X-Men: Days of Future Past 
+33.721|Executive Decision 
+33.618|The Man Who Knew Too Much 
+33.594|Footloose 
+33.494|Justice League 
+33.435|47 Meters Down 
+33.432|A Star Is Born 
+33.417|Incredibles 2 
+33.415|The Square 
+33.321|Raw 
+33.317|Regression 
+33.195|Red Cliff 
+33.091|Star Wars: The Last Jedi 
+33.067|Hunter Killer 
+33.036|Chain Reaction 
+32.986|The Wind That Shakes the Barley 
+32.959|Last Knights 
+32.95|Avatar 
+32.906|The Matrix 
+32.784|I Spit on Your Grave 2 
+32.698|The 100 Year-Old Man Who Climbed Out the Window and Disappeared 
+32.653|2046 
+32.621|The Smurfs 2 
+32.617|Victoria 
+32.594|The Gunman 
+32.522|Batman Begins 
+32.469|I, Daniel Blake 
+32.407|Secret in Their Eyes 
+32.355|The Man Who Knew Infinity 
+32.338|The Past 
+32.31|The Belko Experiment 
+32.165|The Last Legion 
+32.078|Free State of Jones 
+32.073|Deadfall 
+32.041|The Shawshank Redemption 
+32.037|Anthropoid 
+32.033|Pitch Perfect 3 
+32.012|The Cold Light of Day 
+32.009|March of the Penguins 
+31.995|Popstar: Never Stop Never Stopping 
+31.953|The Cat Returns 
+31.939|The Zookeeper's Wife 
+31.921|Aladdin 
+31.827|Suburbicon 
+31.805|The Water Horse 
+31.713|Inception 
+31.712|The Return of the Living Dead 
+31.566|Odd Thomas 
+31.561|Jungle 
+31.506|Pulp Fiction 
+31.445|Hard Target 
+31.359|Iron Sky: The Coming Race 
+31.353|Terminator 2: Judgment Day 
+31.339|Legend 
+31.334|Twilight 
+31.289|Stealth 
+31.285|Battle of the Sexes 
+31.283|Split 
+31.252|Adore 
+31.241|Don't Say a Word 
+31.213|A Royal Affair 
+31.072|Salò, or the 120 Days of Sodom 
+31.063|Triple Frontier 
+31.04|The Rescuers 
+31.029|Blade Runner 2049 
+31.019|Tale of Tales 
+31.004|Taken 3 
+30.996|The Tale of Despereaux 
+30.901|It's Only the End of the World 
+30.835|Dark Places 
+30.803|Poms 
+30.73|Dragged Across Concrete 
+30.709|Unsane 
+30.708|15 Minutes 
+30.701|Batman: The Dark Knight Returns, Part 1 
+30.7|Ironclad 
+30.695|Taxi 
+30.679|Basic Instinct 2 
+30.658|Florence Foster Jenkins 
+30.636|Gone Girl 
+30.598|Rough Night 
+30.579|Schindler's List 
+30.573|Alexander and the Terrible, Horrible, No Good, Very Bad Day 
+30.521|The Great Mouse Detective 
+30.423|The Ring Two 
+30.421|Toni Erdmann 
+30.405|Forbidden Planet 
+30.356|The Lazarus Effect 
+30.324|The Triplets of Belleville 
+30.314|Heartbreaker 
+30.294|Someone Great 
+30.292|Veronica Mars 
+30.265|Byzantium 
+30.254|13 Sins 
+30.234|Mission: Impossible - Fallout 
+30.233|Far from the Madding Crowd 
+30.185|Charlie Says 
+30.119|'71 
+30.043|The Proposition 
+30.025|The Railway Man 
+29.991|A Ghost Story 
+29.946|The Choice 
+29.929|A Nightmare on Elm Street 4: The Dream Master 
+29.928|Bitter Moon 
+29.9|Arrival 
+29.879|Alvin and the Chipmunks: Chipwrecked 
+29.862|The Salesman 
+29.835|Soldier 
+29.825|The Lord of the Rings: The Two Towers 
+29.799|Sicario: Day of the Soldado 
+29.797|Mia and the White Lion 
+29.785|Vice 
+29.783|Harry Potter and the Deathly Hallows: Part 1 
+29.769|Zootopia 
+29.767|Whiteout 
+29.68|The Amazing Spider-Man 
+29.642|The Santa Clause 2 
+29.622|Five Feet Apart 
+29.62|Star Wars: The Force Awakens 
+29.61|No Man's Land 
+29.576|Whiplash 
+29.568|Hot Tub Time Machine 2 
+29.522|The Babysitter 
+29.504|The Paperboy 
+29.488|The Maze Runner 
+29.459|Jason X 
+29.388|Harry Potter and the Order of the Phoenix 
+29.376|Terms of Endearment 
+29.356|Frozen 
+29.355|Invasion of the Body Snatchers 
+29.338|The Divide 
+29.32|Brawl in Cell Block 99 
+29.288|Killing Season 
+29.264|Harry Potter and the Prisoner of Azkaban 
+29.26|Man Up 
+29.255|Missing Link 
+29.237|Friday the 13th Part 2 
+29.133|Force Majeure 
+29.123|Léon: The Professional 
+29.095|Suck Me Shakespeer 
+29.095|Teenage Mutant Ninja Turtles II: The Secret of the Ooze 
+29.069|Blood Father 
+29.049|Ivan's Childhood 
+29.047|The Garden of Words 
+29.042|All Dogs Go to Heaven 
+29.027|The Hobbit: An Unexpected Journey 
+29.016|Step Up All In 
+28.975|New Nightmare 
+28.956|Slow West 
+28.895|The Intruder 
+28.893|Arctic 
+28.825|Transsiberian 
+28.803|W. 
+28.789|Mongol: The Rise of Genghis Khan 
+28.736|Man of Tai Chi 
+28.734|Welcome to the Punch 
+28.724|Paranormal Activity: The Marked Ones 
+28.715|The Imitation Game 
+28.713|Police Academy 4: Citizens on Patrol 
+28.706|Fury 
+28.683|A Bridge Too Far 
+28.561|Citizenfour 
+28.554|Wolf Children 
+28.53|The Good Girl 
+28.49|To All the Boys I've Loved Before 
+28.476|The Nun 
+28.47|Black Sea 
+28.466|Flashdance 
+28.451|Where Eagles Dare 
+28.442|Rules of Engagement 
+28.415|Ladyhawke 
+28.414|The Meg 
+28.369|How to Train Your Dragon 2 
+28.345|Harry Potter and the Half-Blood Prince 
+28.32|Che: Part One 
+28.299|The Rover 
+28.279|Student of the Year 2 
+28.27|Destroyer 
+28.267|I Give It a Year 
+28.197|Two Days, One Night 
+28.188|The Ritual 
+28.17|Underdogs 
+28.152|Ida 
+28.131|Pirates of the Caribbean: Dead Man's Chest 
+28.115|Session 9 
+28.025|BloodRayne 
+28.021|Batman: The Killing Joke 
+28.02|Frankenstein 
+28|Kill the Messenger 
+27.995|The Imposter 
+27.978|Replicas 
+27.969|Maps to the Stars 
+27.902|Innerspace 
+27.901|Oliver & Company 
+27.891|Ladder 49 
+27.876|Snow White and the Seven Dwarfs 
+27.854|In the Name of the King: A Dungeon Siege Tale 
+27.832|War of the Worlds 
+27.826|Life 
+27.806|Child's Play 2 
+27.797|Sneakers 
+27.792|Fight Club 
+27.764|How to Train Your Dragon 
+27.759|Pathfinder 
+27.758|Colette 
+27.71|Joe 
+27.695|Batman: Gotham Knight 
+27.66|RoboCop 3 
+27.642|Drunken Master 
+27.592|Garfield: A Tail of Two Kitties 
+27.562|Miss & Mrs. Cops 
+27.547|The Fog 
+27.503|Pawn Sacrifice 
+27.47|The Equalizer 2 
+27.46|The Legend of Drunken Master 
+27.455|American Pie Presents: The Book of Love 
+27.453|Star Trek V: The Final Frontier 
+27.451|Blade 
+27.436|Tammy 
+27.416|Young Guns 
+27.402|Labor Day 
+27.393|Police Academy 3: Back in Training 
+27.384|Hellbound: Hellraiser II 
+27.382|The Reaping 
+27.379|The Axiom 
+27.354|Sexy Beast 
+27.349|The Big Short 
+27.32|The Human Centipede 2 (Full Sequence) 
+27.304|On the Basis of Sex 
+27.294|The Haunted Mansion 
+27.28|The Rebound 
+27.257|Ghosts of Mars 
+27.255|Nightcrawler 
+27.248|Absolute Power 
+27.244|Woman in Gold 
+27.238|Ready Player One 
+27.228|Disclosure 
+27.202|The Money Pit 
+27.187|Le Samouraï 
+27.171|Murder on the Orient Express 
+27.169|The Martian 
+27.158|Exposed 
+27.154|Flight of the Phoenix 
+27.137|Out of Africa 
+27.107|The Lunchbox 
+27.106|Terminator Genisys 
+27.105|The Purge: Anarchy 
+27.094|In the House 
+27.077|The General's Daughter 
+27.059|Under the Silver Lake 
+27.052|National Lampoon's European Vacation 
+27.045|The Muppet Christmas Carol 
+27.044|Hysteria 
+27.017|X-Men: Apocalypse 
+27.007|Operation Condor 
+26.986|Tomb Raider 
+26.982|Titanic 
+26.978|The Swan Princess 
+26.973|Very Bad Things 
+26.959|Suffragette 
+26.953|The Grudge 2 
+26.929|Scouts Guide to the Zombie Apocalypse 
+26.902|My Neighbor Totoro 
+26.882|The Tall Man 
+26.879|Magnum Force 
+26.829|Spider-Man 3 
+26.826|Asterix: The Secret of the Magic Potion 
+26.822|Dragonfly 
+26.798|French Kiss 
+26.77|The Devil's Own 
+26.753|Cinderella 
+26.753|3some 
+26.728|An American Tail 
+26.723|Dog Soldiers 
+26.713|Firewall 
+26.703|Dark Phoenix 
+26.697|Scanners 
+26.697|RV 
+26.694|2 Days in New York 
+26.69|Friends with Kids 
+26.675|An Officer and a Gentleman 
+26.667|102 Dalmatians 
+26.66|Freaks 
+26.651|Jurassic World 
+26.65|Under the Tuscan Sun 
+26.642|The Colony 
+26.626|Million Dollar Arm 
+26.609|Hard Boiled 
+26.606|Flash Gordon 
+26.603|Bound 
+26.593|All Quiet on the Western Front 
+26.584|Heist 
+26.58|The Three Musketeers 
+26.576|2010 
+26.572|Duck Soup 
+26.554|Mary Queen of Scots 
+26.533|Charlie Countryman 
+26.532|Mr. Right 
+26.493|Arthur and the Invisibles 
+26.48|Curse of the Golden Flower 
+26.472|Drinking Buddies 
+26.467|Harry Potter and the Goblet of Fire 
+26.464|Pathology 
+26.443|Over the Top 
+26.436|The Lion King 
+26.429|Driven 
+26.42|The Hunger Games: Mockingjay - Part 2 
+26.418|John Wick: Chapter 2 
+26.399|Sister Act 2: Back in the Habit 
+26.386|Halloween II 
+26.35|Crypto 
+26.33|The 12th Man 
+26.327|The East 
+26.32|Love of My Life 
+26.288|The Godfather 
+26.285|Eight Legged Freaks 
+26.272|Knocked Up 
+26.263|Dracula Untold 
+26.262|Excalibur 
+26.258|Somewhere 
+26.247|Pirates of the Caribbean: Dead Men Tell No Tales 
+26.246|Harry Potter and the Deathly Hallows: Part 2 
+26.243|Cannibal Holocaust 
+26.243|Old Dogs 
+26.238|The Equalizer 
+26.208|Redirected 
+26.203|Tokyo Story 
+26.202|James and the Giant Peach 
+26.198|Bride of Chucky 
+26.189|Maniac 
+26.187|The Lawnmower Man 
+26.179|Goal! II: Living the Dream 
+26.167|Everybody Wants Some!! 
+26.133|The Longest Day 
+26.121|Big Hero 6 
+26.121|Love Happens 
+26.112|Baby's Day Out 
+26.092|Happy Feet Two 
+26.044|Undisputed III: Redemption 
+26.035|Fred Claus 
+26.009|A Man Apart 
+25.997|Untraceable 
+25.986|Anatomy of a Murder 
+25.981|Wild and Free 
+25.98|Draft Day 
+25.973|The Medallion 
+25.971|Astro Boy 
+25.966|Song to Song 
+25.963|Neon Heart 
+25.959|Triple Threat 
+25.928|The Client 
+25.908|Starred Up 
+25.902|Cradle 2 the Grave 
+25.88|Unbreakable 
+25.869|Toy Story 
+25.869|I Am Mother 
+25.864|Salyut-7 
+25.856|First Man 
+25.834|New in Town 
+25.814|Marathon Man 
+25.812|DOA: Dead or Alive 
+25.81|Holmes & Watson 
+25.797|Lock Up 
+25.781|Mimic 
+25.774|The War of the Roses 
+25.757|Crash 
+25.753|Look Who's Talking Too 
+25.752|Spectral 
+25.726|3-Iron 
+25.708|Pale Rider 
+25.7|Wyatt Earp 
+25.697|The Dirt 
+25.694|Cocoon 
+25.69|Ichi the Killer 
+25.69|Big Momma's House 2 
+25.679|Beauty and the Beast 
+25.662|Breakdown 
+25.646|Lovelace 
+25.64|Take Me Home Tonight 
+25.619|Battleship Potemkin 
+25.614|Bullitt 
+25.611|Son of Saul 
+25.544|Transformers: The Last Knight 
+25.534|Duplicity 
+25.529|Double Impact 
+25.524|Far from Heaven 
+25.513|Striking Distance 
+25.489|The Shape of Water 
+25.476|Friday Night Lights 
+25.47|Annihilation 
+25.462|Dawn of the Planet of the Apes 
+25.401|The Crying Game 
+25.4|After the Sunset 
+25.399|The Dark Knight Rises 
+25.395|Parenthood 
+25.38|Passengers 
+25.376|The Gift 
+25.368|The Twelve Tasks of Asterix 
+25.353|After.Life 
+25.335|A Trip to the Moon 
+25.327|Don't Look Now 
+25.324|Playing for Keeps 
+25.317|Quills 
+25.294|Frantic 
+25.264|Guava Island 
+25.248|Turistas 
+25.247|Bulletproof Monk 
+25.237|High Plains Drifter 
+25.21|Man of Steel 
+25.203|McFarland, USA 
+25.195|Cat on a Hot Tin Roof 
+25.182|Goosebumps 
+25.179|Inland Empire 
+25.163|The Hunted 
+25.157|Enemy Mine 
+25.15|Marnie 
+25.145|National Lampoon's Loaded Weapon 1 
+25.139|The Four Feathers 
+25.126|Get Out 
+25.117|Trust 
+25.109|The Jewel of the Nile 
+25.1|My Own Private Idaho 
+25.099|Departures 
+25.097|Mirror 
+25.078|My Boss's Daughter 
+25.053|Goosebumps 2: Haunted Halloween 
+25.05|Fahrenheit 451 
+25.019|A Nightmare on Elm Street: The Dream Child 
+25.005|Crossroads 
+24.994|The Amazing Spider-Man 2 
+24.978|Rio Bravo 
+24.972|His Girl Friday 
+24.966|Kinsey 
+24.962|Howard the Duck 
+24.929|Red Sonja 
+24.92|Paperman 
+24.918|Sharknado 
+24.908|Vampires 
+24.906|Alone in the Dark 
+24.887|The Cranes Are Flying 
+24.882|The Prince & Me 
+24.859|Agent Cody Banks 
+24.849|Friday the 13th Part III 
+24.849|Dracula 2000 
+24.839|Bill & Ted's Bogus Journey 
+24.827|Lake Placid 
+24.809|War for the Planet of the Apes 
+24.798|The Corrupted 
+24.794|Nine 
+24.794|Did You Hear About the Morgans? 
+24.79|I Spy 
+24.786|The Ridiculous 6 
+24.78|Belle de Jour 
+24.732|The Libertine 
+24.731|The Extraordinary Adventures of Adèle Blanc-Sec 
+24.702|Working Girl 
+24.696|Forrest Gump 
+24.695|Captain America: The Winter Soldier 
+24.686|The Pink Panther 
+24.68|Spy Kids: All the Time in the World 
+24.672|The Right Stuff 
+24.667|See No Evil, Hear No Evil 
+24.665|U Turn 
+24.658|sex, lies, and videotape 
+24.657|Tideland 
+24.625|Down by Law 
+24.622|The Mission 
+24.594|Hellboy II: The Golden Army 
+24.579|3 Men and a Baby 
+24.56|Bad Words 
+24.522|Chariots of Fire 
+24.508|Spectre 
+24.503|People Like Us 
+24.479|Animal Kingdom 
+24.471|The Ledge 
+24.464|Copycat 
+24.455|Double Jeopardy 
+24.447|Super Mario Bros. 
+24.43|Bad Company 
+24.428|Striptease 
+24.423|Dolores Claiborne 
+24.42|Flyboys 
+24.36|Time Bandits 
+24.349|The Fan 
+24.339|Little Women 
+24.326|Away We Go 
+24.307|The Condemned 
+24.301|BASEketball 
+24.3|The Hitcher 
+24.27|A Long Way Down 
+24.267|Cabaret 
+24.26|The Normal Heart 
+24.254|Goya's Ghosts 
+24.25|The Odd Life of Timothy Green 
+24.248|Chalet Girl 
+24.242|The Cat in the Hat 
+24.24|Alice in Wonderland 
+24.234|Raising Helen 
+24.226|Problem Child 2 
+24.219|Westworld 
+24.215|Spider-Man 
+24.204|Widows 
+24.202|Show Me Love 
+24.155|The Player 
+24.155|Alien: Covenant 
+24.148|Shadow of a Doubt 
+24.144|Young & Beautiful 
+24.143|Vidocq 
+24.127|28 Days 
+24.113|Mad Max: Fury Road 
+24.113|The Perfect Date 
+24.108|The Barber of Siberia 
+24.099|Dr. Dolittle 2 
+24.089|Flypaper 
+24.087|Predator 
+24.083|The Wages of Fear 
+24.07|The Wolf of Wall Street 
+24.034|In the Land of Women 
+24.022|Enough Said 
+24.017|A Simple Favor 
+24.006|Once Upon a Deadpool 
+24.002|This Is It 
+23.996|The Descent: Part 2 
+23.986|Wild Target 
+23.985|Adam's Apples 
+23.982|Inside Out 
+23.972|Pride 
+23.962|The Grinch 
+23.957|Airplane II: The Sequel 
+23.954|The Fundamentals of Caring 
+23.936|The Tournament 
+23.929|Crimes and Misdemeanors 
+23.929|Stan & Ollie 
+23.913|The Big Year 
+23.909|Message in a Bottle 
+23.898|Kabhi Khushi Kabhie Gham 
+23.889|Rent 
+23.888|Naked Lunch 
+23.879|Without a Paddle 
+23.869|American Heist 
+23.844|True Story 
+23.843|The Jerk 
+23.839|Ratatouille 
+23.831|Zelig 
+23.816|The 51st State 
+23.806|The Karate Kid, Part III 
+23.805|Martha Marcy May Marlene 
+23.799|Moonstruck 
+23.795|Deuce Bigalow: European Gigolo 
+23.784|Raiders of the Lost Ark 
+23.76|Inspector Gadget 
+23.758|Blow 
+23.758|The Roommate 
+23.736|Smokey and the Bandit 
+23.729|Get Rich or Die Tryin' 
+23.727|Shutter Island 
+23.713|Unplanned 
+23.677|Tae Guk Gi: The Brotherhood of War 
+23.655|Invasion of the Body Snatchers 
+23.654|Teenage Mutant Ninja Turtles 
+23.647|Nim's Island 
+23.637|Aguirre: The Wrath of God 
+23.627|Dave 
+23.62|The Adventures of Robin Hood 
+23.619|Romper Stomper 
+23.608|The Producers 
+23.601|Ocean's Eight 
+23.599|Miracle 
+23.593|The Sentinel 
+23.592|Easy Virtue 
+23.591|Homeward Bound: The Incredible Journey 
+23.579|Boy Erased 
+23.574|Top Secret! 
+23.562|Airheads 
+23.549|Open Water 
+23.544|Prime 
+23.532|Harvey 
+23.519|THX 1138 
+23.505|Saved! 
+23.497|Lilya 4-ever 
+23.491|The Matrix Reloaded 
+23.486|In a Better World 
+23.482|Despite Everything 
+23.478|The Hobbit: The Desolation of Smaug 
+23.466|A Vigilante 
+23.463|Il grande spirito 
+23.45|The 39 Steps 
+23.413|The Battle of Algiers 
+23.399|The Cabinet of Dr. Caligari 
+23.398|Appaloosa 
+23.395|Re-Animator 
+23.389|The Passion of Joan of Arc 
+23.375|In the Loop 
+23.374|Bird Box 
+23.366|Serenity 
+23.363|The Golden Child 
+23.355|The Wrong Trousers 
+23.351|A Regular Woman 
+23.348|Men in Black 3 
+23.341|Mission: Impossible III 
+23.33|Fanboys 
+23.321|Welcome to Marwen 
+23.301|Stop! Or My Mom Will Shoot 
+23.295|Pariban : Idola Dari Tanah Jawa 
+23.271|The New Guy 
+23.27|Black Knight 
+23.256|House on Haunted Hill 
+23.249|Traitor 
+23.247|What Ever Happened to Baby Jane? 
+23.231|The Best Years of Our Lives 
+23.209|The Brothers Bloom 
+23.188|Black Rain 
+23.181|Fanny & Alexander 
+23.167|Perfect Blue 
+23.152|The Con Is On 
+23.12|Night at the Museum: Secret of the Tomb 
+23.099|The Mask 
+23.099|Ip Man 4 
+23.095|Men in Black 
+23.068|Float Like A Butterfly 
+23.056|The Peacemaker 
+23.045|WALL·E 
+23.036|Inglourious Basterds 
+23.036|Arthur 
+23.036|Coneheads 
+23.024|The Terminator 
+23.002|The Kid 
+22.995|Dumb and Dumberer: When Harry Met Lloyd 
+22.993|The First Wives Club 
+22.988|Holy Motors 
+22.985|Highlander 2: The Quickening 
+22.976|Hacksaw Ridge 
+22.937|Halloween 
+22.934|Pirates of the Caribbean: At World's End 
+22.926|Kleine Germanen 
+22.923|Morning Has Broken 
+22.918|High Crimes 
+22.911|Joe Dirt 
+22.905|Monsters, Inc. 
+22.905|Pirates of the Caribbean: On Stranger Tides 
+22.896|This Boy’s Life 
+22.895|Just Say Goodbye 
+22.891|Coriolanus 
+22.887|The American President 
+22.876|Buffalo '66 
+22.87|Meet Dave 
+22.86|Gomorrah 
+22.857|The Matador 
+22.854|Defendor 
+22.839|Evil 
+22.834|Would You Rather 
+22.82|The Man Who Would Be King 
+22.801|The Darkest Minds 
+22.798|A Quiet Place 
+22.791|Love and Death 
+22.769|The Nutcracker and the Four Realms 
+22.746|Dr. No 
+22.739|A River Runs Through It 
+22.736|One Fine Day 
+22.727|Edtv 
+22.722|Something Something... Unakkum Enakkum 
+22.715|Aliens 
+22.708|The Last Temptation of Christ 
+22.707|Tangerines 
+22.706|Pacific Rim: Uprising 
+22.698|Sunrise: A Song of Two Humans 
+22.696|Fair Game 
+22.684|Red Dawn 
+22.683|Laws of Attraction 
+22.682|Honey I Blew Up the Kid 
+22.676|The Rocker 
+22.674|Sleuth 
+22.664|Stuck on You 
+22.662|Flight of the Navigator 
+22.656|Dangerous Minds 
+22.655|Behind the Candelabra 
+22.654|A Clockwork Orange 
+22.635|The Messengers 
+22.624|Straw Dogs 
+22.59|City Slickers 
+22.582|Fantastic Beasts and Where to Find Them 
+22.581|Leaving Afghanistan 
+22.576|The Lady Vanishes 
+22.572|Kuch Kuch Hota Hai 
+22.555|American Splendor 
+22.547|A Hard Day's Night 
+22.546|Pixels 
+22.539|Days of Heaven 
+22.522|The Big Blue 
+22.515|Piranha 3DD 
+22.492|Men in Black II 
+22.476|Kalifornia 
+22.46|Bull Durham 
+22.453|Waitress 
+22.444|Madagascar 
+22.44|Grease 
+22.439|Teen Wolf 
+22.436|The Mighty Ducks 
+22.436|Insurgent 
+22.425|Gridiron Gang 
+22.396|Rab Ne Bana Di Jodi 
+22.391|Rabbit Hole 
+22.38|Stalag 17 
+22.375|Hatsukoi: Otosan, Chibi ga Inaku Narimashita 
+22.37|Your Name. 
+22.369|Sex Tape 
+22.346|Sodemacom Killer 
+22.341|Kong: Skull Island 
+22.339|Jab Tak Hai Jaan 
+22.334|My Sassy Girl 
+22.329|Hereditary 
+22.327|Sleeping Beauty 
+22.32|Food, Inc. 
+22.32|The Head Hunter 
+22.319|The Killer Inside Me 
+22.318|Spirited Away 
+22.306|Maze Runner: The Death Cure 
+22.301|The Hateful Eight 
+22.29|Down with Love 
+22.285|Cube Zero 
+22.283|The Adventures of Baron Munchausen 
+22.267|The Hitcher 
+22.242|Alien 
+22.232|Aladdin 
+22.23|Red Sparrow 
+22.23|Weekend at Bernie's 
+22.216|Solo cose belle 
+22.2|How High 
+22.195|Skyscraper 
+22.193|Den of Thieves 
+22.185|Michael 
+22.161|Last Man Standing 
+22.151|National Security 
+22.147|Saving Private Ryan 
+22.134|The Duelist 
+22.121|Forever Young 
+22.116|Proof 
+22.1|Alpha 
+22.08|Fright Night 
+22.077|Priceless 
+22.076|Children of Heaven 
+22.065|Christiane F. 
+22.047|Lions for Lambs 
+22.034|Dick Tracy 
+22.023|The Devil Inside 
+22.016|All About Steve 
+21.993|Un Chien Andalou 
+21.99|Gigli 
+21.989|Knock on Wood 
+21.961|Nights of Cabiria 
+21.96|Dead Man's Shoes 
+21.958|Singel 39 
+21.95|The Devil Wears Prada 
+21.949|Menace II Society 
+21.944|GoodFellas 
+21.938|A Dog's Way Home 
+21.929|Glory Road 
+21.923|Heartbeats 
+21.911|Swimming Pool 
+21.91|Man on Wire 
+21.9|Bruce Almighty 
+21.899|Birdman 
+21.893|Hellboy 
+21.892|Mathilde 
+21.872|Passenger 57 
+21.871|Daymohk 
+21.87|I Killed My Mother 
+21.87|Nutty Professor II: The Klumps 
+21.862|Fired Up! 
+21.857|Rock Star 
+21.828|Notorious 
+21.826|Romy and Michele's High School Reunion 
+21.819|Stripes 
+21.813|Proof of Life 
+21.805|Rachel Getting Married 
+21.792|Liberal Arts 
+21.783|The Counterfeiters 
+21.783|Burnt by the Sun 
+21.782|The Matrix Revolutions 
+21.782|The Benchwarmers 
+21.777|The Departed 
+21.775|Choke 
+21.769|Three Billboards Outside Ebbing, Missouri 
+21.758|Radio 
+21.753|Upgrade 
+21.75|Great Expectations 
+21.737|Valerian and the City of a Thousand Planets 
+21.732|I Don't Feel at Home in This World Anymore 
+21.724|Low Budget (B.O.) 
+21.718|Isn't It Romantic 
+21.715|Stay Alive 
+21.711|Major League 
+21.711|To Paris! 
+21.703|Children of the Corn 
+21.699|Soul Kitchen 
+21.673|Head-On 
+21.665|Butterfly on a Wheel 
+21.651|Ghost in the Shell 2: Innocence 
+21.633|Suicide Squad 
+21.613|The Lookout 
+21.605|The Company Men 
+21.597|Win Win 
+21.597|When a Stranger Calls 
+21.595|Psycho 
+21.588|Curly Sue 
+21.587|Deconstructing Harry 
+21.58|Withnail & I 
+21.578|Coco 
+21.576|Shrek 
+21.573|Ghost in the Shell 
+21.571|Enterrados 
+21.558|Where the Heart Is 
+21.547|Tell It to the Bees 
+21.538|Broken Embraces 
+21.534|Revenge of the Nerds 
+21.53|The Ice Storm 
+21.529|Rampage 
+21.525|Gladiator 
+21.525|Soul Surfer 
+21.514|My Sassy Girl 
+21.511|Cleaner 
+21.509|Nine Queens 
+21.497|First Blood 
+21.493|After Hours 
+21.493|The Ward 
+21.49|Keeping the Faith 
+21.47|Skyfall 
+21.468|Mission: Impossible 
+21.466|Bobby 
+21.459|Lumpkin, GA 
+21.453|The Caring City 
+21.434|The Love Guru 
+21.428|Fantastic Four: Rise of the Silver Surfer 
+21.427|Juliet, Naked 
+21.425|Blackhat 
+21.416|Fear 
+21.414|You Will Meet a Tall Dark Stranger 
+21.41|Thirteen Days 
+21.405|The Mummy 
+21.398|Georgia Rule 
+21.388|The Purple Rose of Cairo 
+21.371|Jack 
+21.362|Taxi Driver 
+21.343|The Bandit 
+21.34|Lakeview Terrace 
+21.338|The Boy Next Door 
+21.315|The River Wild 
+21.306|Flood 

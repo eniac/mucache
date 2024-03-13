@@ -1,0 +1,10 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: trackhttp
+spec:
+  type: middleware.http.trackhttp
+  version: v1
+  metadata:
+    - name: appID
+      value: "trackapphttp"

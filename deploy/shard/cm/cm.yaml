@@ -1,0 +1,66 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: cm${NODE_IDX}${SHARD_IDX}
+  labels:
+    app: cm${NODE_IDX}${SHARD_IDX}
+spec:
+  selector:
+    app: cm${NODE_IDX}${SHARD_IDX}
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      name: http
+    - protocol: TCP
+      port: 5550
+      targetPort: 5550
+      name: zmq1
+    - protocol: TCP
+      port: 5551
+      targetPort: 5551
+      name: zmq2
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cm${NODE_IDX}${SHARD_IDX}
+  labels:
+    app: cm${NODE_IDX}${SHARD_IDX}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cm${NODE_IDX}${SHARD_IDX}
+  template:
+    metadata:
+      labels:
+        app: cm${NODE_IDX}${SHARD_IDX}
+    spec:
+      containers:
+        - name: cm${NODE_IDX}${SHARD_IDX}
+          image: ${docker_io_username}/shardcm:latest
+          env:
+            - name: NODE_IDX
+              value: "${NODE_IDX}"
+            - name: CM_ADDS
+              value: ${CM_ADDS}
+            - name: SHARD_IDX
+              value: "${SHARD_IDX}"
+            - name: SHARD_COUNT
+              value: "${SHARD_COUNT}"
+          ports:
+            - containerPort: 80
+            - containerPort: 5550
+            - containerPort: 5551
+          imagePullPolicy: Always
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: kubernetes.io/hostname
+                    operator: In
+                    values:
+                      - node-${NODE_IDX}

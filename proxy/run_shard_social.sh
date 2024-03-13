@@ -1,0 +1,1 @@
+cargo run --release social --compose-post $(kips compose_post) --home-timeline $(kips home_timeline) --user-timeline $(kips user_timeline)

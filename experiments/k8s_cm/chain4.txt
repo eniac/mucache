@@ -1,0 +1,4 @@
+service1 http://cm1
+service2 http://cm2
+service3 http://cm3
+backend http://cm4

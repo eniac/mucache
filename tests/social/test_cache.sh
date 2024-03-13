@@ -1,0 +1,1 @@
+python3 tests/social/test_cache.py --compose_post $(kip compose_post) --user_timeline $(kip user_timeline) --post_storage $(kip post_storage)

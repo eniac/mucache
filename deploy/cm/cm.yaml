@@ -1,0 +1,69 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: cm${NODE_IDX}
+  labels:
+    app: cm${NODE_IDX}
+spec:
+  selector:
+    app: cm${NODE_IDX}
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+      name: http
+    - protocol: TCP
+      port: 5550
+      targetPort: 5550
+      name: zmq1
+    - protocol: TCP
+      port: 5551
+      targetPort: 5551
+      name: zmq2
+    - protocol: TCP
+      port: 9090
+      targetPort: 9090
+      name: prof
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cm${NODE_IDX}
+  labels:
+    app: cm${NODE_IDX}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cm${NODE_IDX}
+  template:
+    metadata:
+      labels:
+        app: cm${NODE_IDX}
+    spec:
+      containers:
+        - name: cm${NODE_IDX}
+          image: ${docker_io_username}/cm:latest
+          env:
+            - name: NODE_IDX
+              value: "${NODE_IDX}"
+            - name: CM_ADDS
+              value: ${CM_ADDS}
+#            - name: HTTP_BATCH_SIZE
+#              value: "${HTTP_BATCH_SIZE}"
+          ports:
+            - containerPort: 80
+            - containerPort: 5550
+            - containerPort: 5551
+            - containerPort: 9090
+          imagePullPolicy: Always
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: kubernetes.io/hostname
+                    operator: In
+                    values:
+                      - node-${NODE_IDX}

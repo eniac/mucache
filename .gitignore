@@ -1,0 +1,9 @@
+.vscode
+.idea
+__pycache__
+venv
+
+scripts/vars.sh
+target
+
+manifest.xml

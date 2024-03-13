@@ -1,0 +1,3 @@
+Users: 10000
+Products: 10000
+Home catalog size: 10

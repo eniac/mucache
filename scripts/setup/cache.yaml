@@ -1,0 +1,25 @@
+architecture: standalone
+replicaCount: 1
+cluster:
+  enabled: false
+image:
+  tag: 6.2
+auth:
+  enabled: false
+master:
+  kind: Deployment
+  disableCommands: [ ]
+  persistence:
+    enabled: false
+  configuration: |
+    maxmemory-policy allkeys-lru
+    maxmemory ${MEM}M
+  affinity:
+    nodeAffinity:
+      requiredDuringSchedulingIgnoredDuringExecution:
+        nodeSelectorTerms:
+          - matchExpressions:
+              - key: kubernetes.io/hostname
+                operator: In
+                values:
+                  - node-${NODE_IDX}

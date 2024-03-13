@@ -1,0 +1,91 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: "${APP_NAME_NO_UNDERSCORES}"
+  labels:
+    app: "${APP_NAME_NO_UNDERSCORES}"
+spec:
+  selector:
+    app: "${APP_NAME_NO_UNDERSCORES}"
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+      name: http
+    - protocol: TCP
+      port: 5550
+      targetPort: 5550
+      name: zmq1
+    - protocol: TCP
+      port: 5551
+      targetPort: 5551
+      name: zmq2
+  type: LoadBalancer
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: "${APP_NAME_NO_UNDERSCORES}"
+  labels:
+    app: "${APP_NAME_NO_UNDERSCORES}"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: "${APP_NAME_NO_UNDERSCORES}"
+  template:
+    metadata:
+      labels:
+        app: "${APP_NAME_NO_UNDERSCORES}"
+      annotations:
+        dapr.io/enabled: "true"
+        dapr.io/app-id: "${APP_NAME_NO_UNDERSCORES}"
+        dapr.io/app-port: "3000"
+        dapr.io/unix-domain-socket-path: "/tmp/dapr-socket"
+        dapr.io/log-level: "error"
+        dapr.io/enable-metrics: "false"
+        dapr.io/config: "default"
+        dapr.io/disable-builtin-k8s-secret-store: "true"
+        dapr.io/placement-host-address: ""
+    #        dapr.io/app-health-probe-interval: "30"
+    #        dapr.io/enable-api-logging: "true"
+    spec:
+      volumes:
+        - name: dapr-unix-domain-socket
+          emptyDir: { }
+      containers:
+        - name: "${APP_NAME_NO_UNDERSCORES}"
+          image: ${docker_io_username}/mucache:latest
+          env:
+            - name: APP_PORT
+              value: "3000"
+            - name: APP_NAME
+              value: "${APP_NAME}"
+            - name: APP_NAME_NO_UNDERSCORES
+              value: "${APP_NAME_NO_UNDERSCORES}"
+            - name: APP_NAMESPACE
+              value: "${APP_NAMESPACE}"
+            - name: NODE_IDX
+              value: "${NODE_IDX}"
+            - name: CM_ENABLED
+              value: "${CM_ENABLED}"
+            - name: EXPIRATION_TTL
+              value: "${EXPIRATION_TTL}"
+          ports:
+            - containerPort: 3000
+            - containerPort: 5550
+            - containerPort: 5551
+          imagePullPolicy: Always
+          volumeMounts:
+            - name: dapr-unix-domain-socket
+              mountPath: /tmp/dapr-socket
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: kubernetes.io/hostname
+                    operator: In
+                    values:
+                      - node-${NODE_IDX}

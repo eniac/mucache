@@ -1,0 +1,19 @@
+replicaCount: 1
+cluster:
+  enabled: false
+#image:
+#  tag: 6.2
+architecture: standalone
+master:
+  disableCommands: []
+  persistence:
+    enabled: false
+  affinity:
+    nodeAffinity:
+      requiredDuringSchedulingIgnoredDuringExecution:
+        nodeSelectorTerms:
+          - matchExpressions:
+              - key: kubernetes.io/hostname
+                operator: In
+                values:
+                  - node-1

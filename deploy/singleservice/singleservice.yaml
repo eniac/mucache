@@ -1,0 +1,53 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: singleservice
+  labels:
+    app: singleservice
+spec:
+  selector:
+    app: singleservice
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+  type: LoadBalancer
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: singleservice
+  labels:
+    app: singleservice
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: singleservice
+  template:
+    metadata:
+      labels:
+        app: singleservice
+      annotations:
+        dapr.io/enabled: "true"
+        dapr.io/app-id: "singleservice"
+        dapr.io/app-port: "3000"
+        dapr.io/enable-api-logging: "true"
+        dapr.io/log-level: debug
+    spec:
+      containers:
+        - name: singleservice
+          image: tauta/singleservice:latest
+          ports:
+            - containerPort: 3000
+          imagePullPolicy: Always
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: kubernetes.io/hostname
+                    operator: In
+                    values:
+                      - node-1

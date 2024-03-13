@@ -1,0 +1,4 @@
+disallowed-types = [
+    "std::collections::HashMap",
+    "std::collections::HashSet",
+]

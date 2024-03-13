@@ -1,0 +1,9 @@
+cart http://cm1
+checkout http://cm2
+currency http://cm3
+email http://cm4
+frontend http://cm5
+payment http://cm6
+productcatalog http://cm7
+recommendations http://cm8
+shipping http://cm9

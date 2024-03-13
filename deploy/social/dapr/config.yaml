@@ -1,0 +1,17 @@
+apiVersion: dapr.io/v1alpha1
+kind: Configuration
+metadata:
+  name: default
+  namespace: default
+spec:
+  tracing:
+    samplingRate: "1"
+  httpPipeline:
+    handlers:
+      - name: trackhttp
+        type: middleware.http.trackhttp
+  appHttpPipeline:
+    handlers:
+      - name: trackapphttp
+        type: middleware.http.trackapphttp
+

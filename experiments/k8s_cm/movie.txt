@@ -1,0 +1,12 @@
+castinfo http://cm1
+composereview http://cm2
+frontend http://cm3
+movieid http://cm4
+movieinfo http://cm5
+moviereviews http://cm6
+page http://cm7
+plot http://cm8
+reviewstorage http://cm9
+uniqueid http://cm10
+user http://cm11
+userreviews http://cm12

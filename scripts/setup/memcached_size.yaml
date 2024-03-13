@@ -1,0 +1,22 @@
+architecture: standalone
+resources:
+  requests:
+    cpu: 1000m
+    memory: 1000Mi
+  limits:
+    cpu: 1000m
+    memory: 1000Mi
+podSecurityContext:
+  enabled: false
+containerSecurityContext:
+  enabled: false
+command: [ "memcached", "-m", "$MEM" ]
+affinity:
+  nodeAffinity:
+    requiredDuringSchedulingIgnoredDuringExecution:
+      nodeSelectorTerms:
+        - matchExpressions:
+            - key: kubernetes.io/hostname
+              operator: In
+              values:
+                - node-1

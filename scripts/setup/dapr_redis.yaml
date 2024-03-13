@@ -1,0 +1,19 @@
+apiVersion: dapr.io/v1alpha1
+kind: Component
+metadata:
+  name: redis1
+  namespace: default
+spec:
+  type: state.redis
+  version: v1
+  metadata:
+    - name: keyPrefix
+      value: none
+    - name: redisHost
+      value: redis1-master:6379
+    - name: redisPassword
+      secretKeyRef:
+        name: redis1
+        key: redis-password
+auth:
+  secretStore: kubernetes
